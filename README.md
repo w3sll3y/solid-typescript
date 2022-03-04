@@ -1,8 +1,8 @@
 # solid-typescript
 [SOLID] - With: NodeJs/ExpressJS/Typescript/MailTrap 
 
-To install packages:
+# To install packages:
 npm install
 
-To start:
+# To start:
 npm start
